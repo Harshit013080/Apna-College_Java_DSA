@@ -1,4 +1,4 @@
-package Apna_College_Java_DSA;
+package Apna_College_Java_DSA.Arrays;
 
 class Pairs_in_Arrays {
     public static void main(String[] args) {
